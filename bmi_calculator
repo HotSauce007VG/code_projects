@@ -1,4 +1,7 @@
 #This is a BMI calculator.
+
+#It's one of my first projects while I'm learning Python, so I'm sure it may look primitive to more experienced developers. Enjoy!
+
 weight = int(input())
 height = float(input())
 
